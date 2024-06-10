@@ -1,6 +1,8 @@
-[
-  {
-    "text": "I've got a job that might take yer fancy.",
-    "author": "Pope Turlock"
-  }
-]
+{
+  "messages": [
+    {
+      "text": "I've got a job that might take yer fancy.",
+      "author": "Pope Turlock"
+    }
+  ]
+}
